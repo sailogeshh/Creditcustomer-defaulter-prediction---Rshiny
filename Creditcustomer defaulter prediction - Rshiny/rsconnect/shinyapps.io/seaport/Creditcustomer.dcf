@@ -1,0 +1,13 @@
+name: Creditcustomer
+title: Creditcustomer
+username:
+account: seaport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 407498
+bundleId: 2098632
+url: https://seaport.shinyapps.io/Creditcustomer/
+when: 1558438043.29214
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: credit customer data.csv|demo.R|New folder/app.R|New folder/server.R|New folder/ui.R

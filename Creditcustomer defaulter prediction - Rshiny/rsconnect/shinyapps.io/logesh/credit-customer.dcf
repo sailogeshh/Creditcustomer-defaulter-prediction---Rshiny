@@ -1,0 +1,13 @@
+name: credit-customer
+title: credit-customer
+username:
+account: logesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 426466
+bundleId: 1574347
+url: https://logesh.shinyapps.io/credit-customer/
+when: 1536323986.04172
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app.R|Sample data - company defaulters (1).csv
